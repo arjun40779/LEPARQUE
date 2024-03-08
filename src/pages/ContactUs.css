@@ -1,0 +1,13 @@
+.sub-heading {
+	color: #c1a358;
+	margin-bottom: 2rem;
+}
+.text {
+	margin-bottom: 2rem;
+}
+.contact {
+	border-top: 2px solid #c1a358;
+}
+.contact-left {
+	border-right: 1px solid #c1a358;
+}

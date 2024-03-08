@@ -1,0 +1,20 @@
+:root {
+	--main-color: #1f6a50; /* Define the color variable */
+}
+.navbar {
+	border-bottom: 2px solid var(--main-color);
+	padding: 1rem;
+}
+.navlist {
+	list-style: none;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	gap: 3rem;
+	color: var(--main-color);
+	font-weight: 500;
+	font-size: 1.15rem;
+}
+.brand {
+	font-size: 1.5rem;
+}

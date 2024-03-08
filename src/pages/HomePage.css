@@ -1,0 +1,20 @@
+.homepage-wrapper {
+	background: url("../assets/image\ 5.svg");
+	background-position: bottom;
+	background-repeat: no-repeat;
+	background-color: var(--main-color);
+}
+.homepage {
+	height: 900px;
+
+	background: url("../assets/homepage.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	border-radius: 0 0 300px 0;
+}
+.banner-text {
+	display: flex;
+	justify-content: space-between;
+	padding: 4rem;
+}
